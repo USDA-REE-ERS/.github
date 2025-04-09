@@ -1,4 +1,4 @@
-<a href='https://www.ers.usda.gov/about-ers'><img src='https://avatars.githubusercontent.com/u/4431158?s=200&v=4' alt='Official logo of the United States Department of Agriculture above the Economic Research Service "ERS" acronym' width='140' height='140'></a>
+<a href='https://www.ers.usda.gov/about-ers'><img src='https://avatars.githubusercontent.com/u/88440466?s=400&u=150684efb2ade427d3c70917f682ccb9cfc843ef&v=4' alt='Official logo of the United States Department of Agriculture above the Economic Research Service "ERS" acronym' width='140' height='140'></a>
 
 ## Economic Research Service <br>U.S. Department of Agriculture
 
